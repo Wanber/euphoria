@@ -1,0 +1,5 @@
+.rtl,
+.rtl select,
+.rtl textarea,
+.rtl input {text-align: right;}
+.rtl .header-form {left: 40px; right: inherit;}
